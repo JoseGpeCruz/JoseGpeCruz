@@ -1,4 +1,4 @@
-<img "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDNtYmhtOXlsOXV3a3F0bjQzc2k3Y3NpdWpxM2N0YnNqNGJ6aDNmOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/gFrmO3kFGWbf2/giphy.gif" width=40> ¡Hola a todos! 👋
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDNtYmhtOXlsOXV3a3F0bjQzc2k3Y3NpdWpxM2N0YnNqNGJ6aDNmOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/gFrmO3kFGWbf2/giphy.gif" width=40> ¡Hola a todos! 👋
 ¡Bienvenidos a mi perfil de GitHub! Mi nombre es Jose Guadalupe Cruz, soy estudiante de Ingeniería en Sistemas. Estoy constantemente buscando mejorar mis habilidades en desarrollo de software.
 <br><br>
 Lo que encontrarás aquí <br>
