@@ -1,3 +1,8 @@
+<div align="center">
+<h1 align="center">Hola, soy José </a> 👋</h1>
+</div>
+<img src="https://i.imgur.com/YqTQhM6.png">
+
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDNtYmhtOXlsOXV3a3F0bjQzc2k3Y3NpdWpxM2N0YnNqNGJ6aDNmOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/gFrmO3kFGWbf2/giphy.gif" width=40> ¡Hola a todos! 👋
 ¡Bienvenidos a mi perfil de GitHub! Mi nombre es Jose Guadalupe Cruz, soy estudiante de Ingeniería en Sistemas. Estoy constantemente buscando mejorar mis habilidades en desarrollo de software.
 <br><br>
@@ -11,7 +16,7 @@ Conéctate conmigo <br>
 
 ## 🌐 Socials:
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@CodigoJose) 
-[![GitHub]( https://github.com/JoseGpeCruz)]
+
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?style=for-the-badge&logo=Thymeleaf&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
