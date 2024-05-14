@@ -15,7 +15,7 @@ Conéctate conmigo <br>
 ¡Gracias por visitar mi perfil! 
 
 ## 🌐 Socials:
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](www.youtube.com/@CodigosJose) 
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@CodigosJose) 
 
 
 # 💻 Tech Stack:
