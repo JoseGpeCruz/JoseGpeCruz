@@ -11,11 +11,11 @@ Lo que encontrarás aquí <br>
 🔧 Colaboraciones en proyectos de código abierto donde contribuyo y aprendo de la comunidad. <br>
 📚 Recursos y herramientas útiles que he creado o descubierto durante mi aprendizaje.<br>
 Conéctate conmigo <br>
-📫 ¡Estoy abierto a colaboraciones y preguntas! No dudes en contactarme a través de mi correo electrónico jose.cruz.gon1212@gmail.com, en mis red social www.youtube.com/@CodigosJose. <br>.
+📫 ¡Estoy abierto a colaboraciones y preguntas! No dudes en contactarme a través de mi correo electrónico jose.cruz.gon1212@gmail.com 0 en mi red social www.youtube.com/@CodigosJose <br>.
 ¡Gracias por visitar mi perfil! 
 
 ## 🌐 Socials:
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@CodigoJose) 
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](www.youtube.com/@CodigosJose) 
 
 
 # 💻 Tech Stack:
