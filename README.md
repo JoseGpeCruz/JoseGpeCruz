@@ -11,7 +11,7 @@ Lo que encontrarás aquí <br>
 🔧 Colaboraciones en proyectos de código abierto donde contribuyo y aprendo de la comunidad. <br>
 📚 Recursos y herramientas útiles que he creado o descubierto durante mi aprendizaje.<br>
 Conéctate conmigo <br>
-📫 ¡Estoy abierto a colaboraciones y preguntas! No dudes en contactarme a través de mi correo electrónico jose.cruz.gon1212@gmail.com o en mis redes sociales www.youtube.com/@CodigosJose. <br>
+📫 ¡Estoy abierto a colaboraciones y preguntas! No dudes en contactarme a través de mi correo electrónico jose.cruz.gon1212@gmail.com, en mis red social www.youtube.com/@CodigosJose. <br>.
 ¡Gracias por visitar mi perfil! 
 
 ## 🌐 Socials:
